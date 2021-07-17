@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Personal's website
 description: O Objetivo do site é compartilhar projetos e estudo pessoais.
-baseurl: "/website_2" # the subpath of your site, e.g. /blog
+baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://dini-lari.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -65,7 +65,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Larissa Diniz on GitHub":
-    - "//github.com/dini-lari/website_2"
+    - "//github.com/dini-lari/website"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
