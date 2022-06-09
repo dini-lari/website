@@ -11,7 +11,7 @@ permalink: /
 
 Vera Rubin (1928-2016)
 {: .fs-5 .fw-300 }
-Ambiente destinado a compartilhar estudos e ideais de uma economista em migração para área de tecnologia.
+Ambiente destinado a compartilhar estudos de uma economista em migração para área de tecnologia.
 Acesso ao ambiente do GitHub ou conteúdo do site abaixo.
 {: .fs-6 .fw-300 }
 
