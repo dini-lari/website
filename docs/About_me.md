@@ -5,7 +5,7 @@ nav_order: 99
 ---
 
 
-<img src="https://media-exp3.licdn.com/dms/image/C4E03AQFcztwzQwnWZg/profile-displayphoto-shrink_800_800/0/1610040528547?e=1631750400&v=beta&t=u1nxKiFA4zo-wfxqRN0xHGIt9n7de6klI_s8n5wRaSs" width="70" height="70">
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQERGj5aUrX1NA/profile-displayphoto-shrink_800_800/0/1629760363893?e=1660176000&v=beta&t=IQtIGQK_rklXGJ2H5fKQEinn0zwDKTgBlUGUyxN_Kw0" width="70" height="70">
 
 # [](#header-1)Larissa Tavares Diniz
 
